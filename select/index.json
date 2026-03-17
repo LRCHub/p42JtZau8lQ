@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "デッドエンドクイーン",
+  "base_artist": "七紙",
+  "createdAt": "2026-03-17T06:35:57.365943Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "デッドエンドクイーン",
+      "artist": "七紙",
+      "has_synced": false,
+      "path": "select/pl_01_デッドエンドクイーン_七紙.txt"
+    }
+  ]
+}
